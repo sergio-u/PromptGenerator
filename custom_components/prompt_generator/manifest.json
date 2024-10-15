@@ -2,7 +2,7 @@
   "domain": "prompt_generator",
   "name": "Prompt Generator",
   "codeowners": ["@sergio-u"],
-  "config_flow": false,
+  "config_flow": true,
   "dependencies": [],
   "documentation": "https://github.com/sergio-u/prompt_generator",
   "integration_type": "service",
